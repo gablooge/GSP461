@@ -20,3 +20,11 @@ https://www.qwiklabs.com/focuses/4337?parent=catalog
 # Terminal 2 for gcloud authentication
 > gcloud init
 
+# CloudShell
+> git clone https://github.com/gablooge/GSP461.git
+
+> cd GSP461
+
+> chmod +x cloudshell.sh
+
+> ./cloudshell.sh 
